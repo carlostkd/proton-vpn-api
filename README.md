@@ -74,6 +74,14 @@ If Proton requests changes or takedown, this repository will comply.
 
 ***
 
+## 🙏 Support the Project
+
+If you find Proton Vpn API useful, consider buying me a coffee (or a whole espresso machine). 
+
+Your donation helps keep the AI sharp, the jokes fresh, and the servers humming.  
+
+[Donate Here ➡️](https://donate.stripe.com/8wM6pe9DD99xgAofYZ?locale=en&__embed_source=buy_btn_1Oi3L8AtK4E7C1uiKA4WkkML)
+
 ## Contributing
 
 PRs welcome.
